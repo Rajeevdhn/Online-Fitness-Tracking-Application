@@ -79,11 +79,6 @@ cd Online-Fitness-Tracking-App
 ```plaintext
 FitnessTracker/
 ├── src/
-│   ├── controllers/               # Controller files handling requests
-│   ├── models/                    # Models representing database entities
-│   ├── routes/                    # API routes for fitness tracking and user management
-│   ├── services/                  # Services for business logic
-│   ├── views/                     # HTML views for user and admin interfaces
 │   ├── config/                    # Configuration files (e.g., database, JWT secrets)
 │   └── database/                  # Database setup and schema
 ├── public/                        # Static assets (CSS, JS, images)
