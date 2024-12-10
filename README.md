@@ -25,7 +25,7 @@
 ---
 ## Architecture Overview
 
-![Fitness Diagram](https://example.com/fitness-architecture.jpg)
+![Fitness Diagram](https://github.com/Rajeevdhn/Online-Fitness-Tracking-Application/blob/main/images/architecture.png)
 
 ### Backend Architecture
 The backend is designed for scalability and flexibility, implemented using **Node.js** and **Express.js**. Key components include:
