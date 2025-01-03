@@ -9,7 +9,6 @@
 - [Architecture Overview](#architecture-overview)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Project Structure](#project-structure)
 -  [Outcome](#outcome)
 
 ---
@@ -72,22 +71,6 @@ To set up the project locally:
 git clone https://github.com/user-attachments/Online-Fitness-Tracking-App
 cd Online-Fitness-Tracking-App
 # End: Clone repository
-```
-
-## Project Structure
-
-```plaintext
-FitnessTracker/
-├── src/
-│   ├── config/                    # Configuration files (e.g., database, JWT secrets)
-│   └── database/                  # Database setup and schema
-├── public/                        # Static assets (CSS, JS, images)
-│   ├── css/                       # CSS files
-│   ├── js/                        # JavaScript files
-│   └── images/                    # Image assets
-├── .env                           # Environment variables for configuration
-├── server.js                      # Entry point for the application
-└── README.md                      # Project documentation
 ```
 
 ## Outcome
